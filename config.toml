@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#0e2a47"         # Deep navy blue (used for buttons and highlights)
+backgroundColor="#f8f9fa"      # Light gray background
+secondaryBackgroundColor="#ffffff"  # Card background
+textColor="#212529"            # Near black text
+font="sans serif"              # Options: "sans serif", "serif", "monospace"
